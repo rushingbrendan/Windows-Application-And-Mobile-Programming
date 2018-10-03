@@ -26,7 +26,18 @@ namespace a2
         {
             InitializeComponent();
 
+
+
         }
+
+
+
+        void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            Keyboard.Focus(textbox);
+        }
+
+
 
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
@@ -37,6 +48,17 @@ namespace a2
 
             switch (fileMenuItem.Name)
             {
+
+                case "menuClose":
+                    ExitNotepad();
+                    break;
+
+                case "menuNew":
+                    NewNotepad();
+                    break;
+                        
+
+
 
                 case "menuOpen":    // Create OpenFileDialog
                     Microsoft.Win32.OpenFileDialog openFileDlg = new Microsoft.Win32.OpenFileDialog();
@@ -54,26 +76,8 @@ namespace a2
                     break;
 
                 case "menuSaveAs":    // Create SaveFileDialog
-                    System.Windows.Forms.SaveFileDialog saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
 
-                    saveFileDialog1.Filter = "Text file (*.txt)|*.txt|C# file (*.cs)|*.cs";
-
-                    saveFileDialog1.DefaultExt = "txt";
-                    saveFileDialog1.AddExtension = true;
-
-                    System.Windows.Forms.DialogResult resultSave = saveFileDialog1.ShowDialog();
-
-
-
-
-                    if (resultSave == System.Windows.Forms.DialogResult.OK)
-                    {
-                        System.IO.File.WriteAllText(saveFileDialog1.FileName, textbox.Text);
-
-                    }
-
-
-
+                    SaveAsNotepad();
 
                     break;
 
@@ -155,13 +159,85 @@ namespace a2
 
                     break;
 
+
+                //case "menuSpellCheck":
+                //    if (textbox.SpellCheck.IsEnabled.Equals(SpellCheck.IsEnabledProperty))
+                //    {
+                //        textbox.SpellCheck.IsEnabled = 
+                //        menuWordWrap.IsChecked = true;
+
+
+                //    }
+                //    else if (textbox.TextWrapping.Equals(TextWrapping.Wrap))
+                //    {
+                //        textbox.TextWrapping = TextWrapping.NoWrap;
+                //        menuWordWrap.IsChecked = false;
+                //    }
+
+                    break;
+
             }
 
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+            statusBarText.Text = "Character Count: " + textbox.Text.Length;
+        }
+
+
+        private void SaveAsNotepad()
+        {
+            System.Windows.Forms.SaveFileDialog saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+
+            saveFileDialog1.Filter = "Text file (*.txt)|*.txt|C# file (*.cs)|*.cs";
+
+            saveFileDialog1.DefaultExt = "txt";
+            saveFileDialog1.AddExtension = true;
+
+            System.Windows.Forms.DialogResult resultSave = saveFileDialog1.ShowDialog();
+
+            if (resultSave == System.Windows.Forms.DialogResult.OK)
+            {
+                System.IO.File.WriteAllText(saveFileDialog1.FileName, textbox.Text);
+
+            }
+        }
+
+
+
+        private void ExitNotepad()
+        {
+
+            MessageBoxResult promptUser = MessageBox.Show("Do you want to save the file?", "Brendan Rushing's Textpad", MessageBoxButton.YesNoCancel);
+            switch (promptUser)
+            {
+                case MessageBoxResult.Yes:
+                    SaveAsNotepad();
+                    break;
+
+                case MessageBoxResult.No:
+                    NewNotepad();
+                    break;
+
+                case MessageBoxResult.Cancel:
+                    break;
+            }
 
         }
+
+
+        private void NewNotepad()
+        {
+            textbox.Text = "";
+
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            ExitNotepad();
+        }
+
+
     }
 }

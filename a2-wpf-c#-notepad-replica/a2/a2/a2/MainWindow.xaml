@@ -5,24 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:a2"
         mc:Ignorable="d"
-        Title="Brendan Rushing's TextPad" Height="450" Width="782.898">
+        Title="Brendan Rushing's TextPad" Height="450" Width="782.898" Closing="Window_Closing">
+   
 
 
     <Grid>
         <DockPanel>
 
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBarItem>
+                    <TextBlock Name="statusBarText" />
+                </StatusBarItem>
+            </StatusBar>
+            
             <Menu DockPanel.Dock="Top" Background="White">
-
                 <MenuItem Header="_File" Click="MenuItem_Click">
-                    <MenuItem Name ="menuNew" Header="_New"/>
+                    <MenuItem x:Name ="menuNew" Header="_New"/>
                     <MenuItem x:Name ="menuOpen" Header="_Open"/>
                     <MenuItem x:Name ="menuSaveAs" Header="_Save As"/>
-                    <MenuItem Name ="menuClose" Header="_Close"/>
+                    <MenuItem x:Name ="menuClose" Header="_Close"/>
                 </MenuItem>
-
                 <MenuItem Header="_Options" Click="MenuItem_Click">
                     <MenuItem Name ="menuFont" Header="_Font"/>
                     <MenuItem Name ="menuWordWrap" Header="_Word Wrap" IsChecked="True"/>
+                    <MenuItem Name ="menuSpellCheck" Header="_Spell Check" IsChecked="True"/>
                 </MenuItem>
                 <MenuItem Header="_Help">
                     <MenuItem Header="_About"/>
@@ -33,7 +39,7 @@
 
         <TextBox BorderBrush="LightGray" BorderThickness="0,1,0,0" Name="textbox" TextWrapping="Wrap"  Text=""  TextChanged="TextBox_TextChanged" 
                  Margin="2,20,2,30" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"
-                 SpellCheck.IsEnabled="True"                         />
+                 SpellCheck.IsEnabled="True" IsInactiveSelectionHighlightEnabled="False" Loaded="MainWindow_Loaded"                 />
 
 
     </Grid>
