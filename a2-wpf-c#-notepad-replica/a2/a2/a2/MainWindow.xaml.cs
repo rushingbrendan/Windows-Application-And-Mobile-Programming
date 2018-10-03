@@ -160,19 +160,19 @@ namespace a2
                     break;
 
 
-                //case "menuSpellCheck":
-                //    if (textbox.SpellCheck.IsEnabled.Equals(SpellCheck.IsEnabledProperty))
-                //    {
-                //        textbox.SpellCheck.IsEnabled = 
-                //        menuWordWrap.IsChecked = true;
+                case "menuSpellCheck":
+                    if (textbox.SpellCheck.IsEnabled.Equals(true))
+                    {
+                        textbox.SpellCheck.IsEnabled = false;
+                        menuSpellCheck.IsChecked = false;
 
 
-                //    }
-                //    else if (textbox.TextWrapping.Equals(TextWrapping.Wrap))
-                //    {
-                //        textbox.TextWrapping = TextWrapping.NoWrap;
-                //        menuWordWrap.IsChecked = false;
-                //    }
+                    }
+                    else
+                    {
+                        textbox.SpellCheck.IsEnabled = true;
+                        menuSpellCheck.IsChecked = true;
+                    }
 
                     break;
 
