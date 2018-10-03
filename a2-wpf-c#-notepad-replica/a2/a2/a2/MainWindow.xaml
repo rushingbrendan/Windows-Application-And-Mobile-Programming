@@ -1,0 +1,45 @@
+﻿<Window x:Class="a2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:a2"
+        mc:Ignorable="d"
+        Title="Brendan Rushing's TextPad" Height="450" Width="782.898">
+
+
+    <Grid>
+        <DockPanel>
+
+            <Menu DockPanel.Dock="Top" Background="White">
+
+                <MenuItem Header="_File" Click="MenuItem_Click">
+                    <MenuItem Name ="menuNew" Header="_New"/>
+                    <MenuItem x:Name ="menuOpen" Header="_Open"/>
+                    <MenuItem x:Name ="menuSaveAs" Header="_Save As"/>
+                    <MenuItem Name ="menuClose" Header="_Close"/>
+                </MenuItem>
+
+                <MenuItem Header="_Options" Click="MenuItem_Click">
+                    <MenuItem Name ="menuFont" Header="_Font"/>
+                    <MenuItem Name ="menuWordWrap" Header="_Word Wrap" IsChecked="True"/>
+                </MenuItem>
+                <MenuItem Header="_Help">
+                    <MenuItem Header="_About"/>
+                </MenuItem>
+            </Menu>
+
+        </DockPanel>
+
+        <TextBox BorderBrush="LightGray" BorderThickness="0,1,0,0" Name="textbox" TextWrapping="Wrap"  Text=""  TextChanged="TextBox_TextChanged" 
+                 Margin="2,20,2,30" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"
+                 SpellCheck.IsEnabled="True"                         />
+
+
+    </Grid>
+
+
+
+
+
+</Window>
