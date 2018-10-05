@@ -206,7 +206,7 @@ namespace a2
 
 
 
-        private void ExitNotepad()
+        private string ExitNotepad()
         {
 
             MessageBoxResult promptUser = MessageBox.Show("Do you want to save the file?", "Brendan Rushing's Textpad", MessageBoxButton.YesNoCancel);
@@ -214,16 +214,17 @@ namespace a2
             {
                 case MessageBoxResult.Yes:
                     SaveAsNotepad();
-                    break;
+                    return "exit";
 
                 case MessageBoxResult.No:
                     NewNotepad();
-                    break;
+                    return "exit";
 
                 case MessageBoxResult.Cancel:
-                    break;
+                    return "cancel";
             }
 
+            return "cancel";
         }
 
 
@@ -235,9 +236,16 @@ namespace a2
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
-            ExitNotepad();
+
+            if (textbox.Text.Length != 0)
+            {
+                string retCode = ExitNotepad();
+
+                if (retCode == "cancel")
+                {
+                    e.Cancel = true;
+                }           
+            }          
         }
-
-
     }
 }

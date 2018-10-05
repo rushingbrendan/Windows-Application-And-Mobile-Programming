@@ -25,6 +25,14 @@
                     <MenuItem x:Name ="menuSaveAs" Header="_Save As"/>
                     <MenuItem x:Name ="menuClose" Header="_Close"/>
                 </MenuItem>
+                <MenuItem Header="_Edit" Click="MenuItem_Click">
+                    <MenuItem x:Name ="menuCut" Header="_Cut" Command="Cut"/>
+                    <MenuItem x:Name ="menuCopy" Header="_Copy" Command="Copy"/>
+                    <MenuItem x:Name ="menuPaste" Header="_Paste" Command="Paste"/>
+                    <MenuItem x:Name ="menuSelectAl" Header="_Select All" Command="SelectAll"/>
+                    <MenuItem x:Name ="menuUndo" Header="_Undo" Command="Undo"/>
+                    <MenuItem x:Name ="menuRedo" Header="_Redo" Command="Redo"/>
+                </MenuItem>
                 <MenuItem Header="_Options" Click="MenuItem_Click">
                     <MenuItem Name ="menuFont" Header="_Font"/>
                     <MenuItem Name ="menuWordWrap" Header="_Word Wrap" IsChecked="True"/>
