@@ -217,7 +217,7 @@ namespace a2
                     return "exit";
 
                 case MessageBoxResult.No:
-                    NewNotepad();
+                    //NewNotepad();
                     return "exit";
 
                 case MessageBoxResult.Cancel:
@@ -230,7 +230,13 @@ namespace a2
 
         private void NewNotepad()
         {
-            textbox.Text = "";
+            string retCode = ExitNotepad();
+
+            if (retCode == "exit")
+            {
+                textbox.Text = "";
+            }
+      
 
         }
 

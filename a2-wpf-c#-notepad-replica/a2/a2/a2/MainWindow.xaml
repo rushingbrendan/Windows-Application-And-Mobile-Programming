@@ -26,20 +26,20 @@
                     <MenuItem x:Name ="menuClose" Header="_Close"/>
                 </MenuItem>
                 <MenuItem Header="_Edit" Click="MenuItem_Click">
-                    <MenuItem x:Name ="menuCut" Header="_Cut" Command="Cut"/>
-                    <MenuItem x:Name ="menuCopy" Header="_Copy" Command="Copy"/>
-                    <MenuItem x:Name ="menuPaste" Header="_Paste" Command="Paste"/>
-                    <MenuItem x:Name ="menuSelectAl" Header="_Select All" Command="SelectAll"/>
-                    <MenuItem x:Name ="menuUndo" Header="_Undo" Command="Undo"/>
-                    <MenuItem x:Name ="menuRedo" Header="_Redo" Command="Redo"/>
+                    <MenuItem Name ="menuCut" Header="_Cut" Command="Cut"/>
+                    <MenuItem Name ="menuCopy" Header="_Copy" Command="Copy"/>
+                    <MenuItem Name ="menuPaste" Header="_Paste" Command="Paste"/>
+                    <MenuItem Name ="menuSelectAl" Header="_Select All" Command="SelectAll"/>
+                    <MenuItem Name ="menuUndo" Header="_Undo" Command="Undo"/>
+                    <MenuItem Name ="menuRedo" Header="_Redo" Command="Redo"/>
                 </MenuItem>
                 <MenuItem Header="_Options" Click="MenuItem_Click">
                     <MenuItem Name ="menuFont" Header="_Font"/>
                     <MenuItem Name ="menuWordWrap" Header="_Word Wrap" IsChecked="True"/>
                     <MenuItem Name ="menuSpellCheck" Header="_Spell Check" IsChecked="True"/>
                 </MenuItem>
-                <MenuItem Header="_Help">
-                    <MenuItem Header="_About"/>
+                <MenuItem Header="_Help" Click="MenuItem_Click">
+                    <MenuItem Name ="menuAbout" Header="_About"/>
                 </MenuItem>
             </Menu>
 
