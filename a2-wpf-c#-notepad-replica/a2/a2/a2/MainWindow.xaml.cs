@@ -72,9 +72,12 @@ namespace a2
         {
             InitializeComponent();
 
+
+
         }
 
 
+<<<<<<< HEAD
         /*
         *   FUNCTION : MainWindow_Loaded
         *
@@ -87,10 +90,17 @@ namespace a2
         void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             Keyboard.Focus(textbox);    //set focus on textbox right away so user can type as soon as program is launched.
+=======
+
+        void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            Keyboard.Focus(textbox);
+>>>>>>> 92eaec20d402e5e4224f0e64c55b00baa7af2b57
         }
 
 
 
+<<<<<<< HEAD
         /*
         *   FUNCTION : MenuItem_Click
         *
@@ -100,6 +110,9 @@ namespace a2
         *   
         *   RETURNS : none
         */
+=======
+
+>>>>>>> 92eaec20d402e5e4224f0e64c55b00baa7af2b57
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
 
@@ -109,6 +122,7 @@ namespace a2
             switch (fileMenuItem.Name)
             {
 
+<<<<<<< HEAD
                 case "menuAbout":
                     AboutBox1 NotepadAboutBox = new AboutBox1();    //create aboutbox and show it
                     NotepadAboutBox.Show();
@@ -121,6 +135,14 @@ namespace a2
 
                 case "menuNew":
                     NewNotepad();       //new notepad
+=======
+                case "menuClose":
+                    ExitNotepad();
+                    break;
+
+                case "menuNew":
+                    NewNotepad();
+>>>>>>> 92eaec20d402e5e4224f0e64c55b00baa7af2b57
                     break;
                         
 
@@ -213,7 +235,11 @@ namespace a2
                     break;
 
 
+<<<<<<< HEAD
                 case "menuSpellCheck":  //toggle spell check
+=======
+                case "menuSpellCheck":
+>>>>>>> 92eaec20d402e5e4224f0e64c55b00baa7af2b57
                     if (textbox.SpellCheck.IsEnabled.Equals(true))
                     {
                         textbox.SpellCheck.IsEnabled = false;
@@ -245,7 +271,72 @@ namespace a2
         */
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+            statusBarText.Text = "Character Count: " + textbox.Text.Length;
+        }
 
+
+        private void SaveAsNotepad()
+        {
+            System.Windows.Forms.SaveFileDialog saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+
+            saveFileDialog1.Filter = "Text file (*.txt)|*.txt|C# file (*.cs)|*.cs";
+
+            saveFileDialog1.DefaultExt = "txt";
+            saveFileDialog1.AddExtension = true;
+
+            System.Windows.Forms.DialogResult resultSave = saveFileDialog1.ShowDialog();
+
+            if (resultSave == System.Windows.Forms.DialogResult.OK)
+            {
+                System.IO.File.WriteAllText(saveFileDialog1.FileName, textbox.Text);
+
+            }
+        }
+
+
+
+        private string ExitNotepad()
+        {
+
+            MessageBoxResult promptUser = MessageBox.Show("Do you want to save the file?", "Brendan Rushing's Textpad", MessageBoxButton.YesNoCancel);
+            switch (promptUser)
+            {
+                case MessageBoxResult.Yes:
+                    SaveAsNotepad();
+                    return "exit";
+
+                case MessageBoxResult.No:
+                    //NewNotepad();
+                    return "exit";
+
+                case MessageBoxResult.Cancel:
+                    return "cancel";
+            }
+
+            return "cancel";
+        }
+
+
+        private void NewNotepad()
+        {
+            string retCode = ExitNotepad();
+
+            if (retCode == "exit")
+            {
+                textbox.Text = "";
+            }
+      
+
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+            if (textbox.Text.Length != 0)
+            {
+                string retCode = ExitNotepad();
+
+<<<<<<< HEAD
             int whiteSpaceCount = 0;
 
             foreach (char character in textbox.Text)
@@ -358,6 +449,12 @@ namespace a2
 
                 }
 
+=======
+                if (retCode == "cancel")
+                {
+                    e.Cancel = true;
+                }           
+>>>>>>> 92eaec20d402e5e4224f0e64c55b00baa7af2b57
             }          
         }
     }
