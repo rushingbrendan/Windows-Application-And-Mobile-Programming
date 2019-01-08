@@ -13,3 +13,33 @@ C:\Users\Rushing\Documents\Windows Programming\A2\2.0\a2\a2\obj\Debug\a2.csproj.
 C:\Users\Rushing\Documents\Windows Programming\A2\2.0\a2\a2\obj\Debug\a2.csproj.CoreCompileInputs.cache
 C:\Users\Rushing\Documents\Windows Programming\A2\2.0\a2\a2\obj\Debug\a2.exe
 C:\Users\Rushing\Documents\Windows Programming\A2\2.0\a2\a2\obj\Debug\a2.pdb
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.exe.config
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.exe
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.pdb
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.csprojAssemblyReference.cache
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\MainWindow.g.cs
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\App.g.cs
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2_MarkupCompile.cache
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2_MarkupCompile.lref
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\MainWindow.baml
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.g.resources
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.Properties.Resources.resources
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.csproj.GenerateResource.cache
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.csproj.CoreCompileInputs.cache
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.exe
+C:\Users\brushing0895\Downloads\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.pdb
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.exe.config
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.exe
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\bin\Debug\a2.pdb
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\mainWindow.g.cs
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\App.g.cs
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2_MarkupCompile.cache
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2_MarkupCompile.lref
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\mainWindow.baml
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.g.resources
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.AboutBox1.resources
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.Properties.Resources.resources
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.csproj.GenerateResource.cache
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.csproj.CoreCompileInputs.cache
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.exe
+C:\Users\Rushing\Documents\Windows Programming\Windows-Application-And-Mobile-Programming\a2-wpf-c#-notepad-replica\a2\a2\a2\obj\Debug\a2.pdb

@@ -1,31 +1,80 @@
-﻿<Window x:Class="a2.MainWindow"
+﻿<!--
+*  FILE          : MainWindow.xaml
+*  PROJECT       : PROG2120 - Windows and Mobile Programming - Assignment #2
+*  PROGRAMMER    : Brendan Rushing
+*  FIRST VERSION : 2018-10-07
+*  DESCRIPTION   : Windows WPF & C# notepad replica application.
+*  REQUIREMENTS  :
+*  
+*   Notepad icon is borrowed from microsoft windows notepad application.
+*   
+*   1. The overall user interface should have a menu at the top, a status bar at the bottom, and the
+        remaining area in between as the work area for editing.
+    2. Implement a menu that has "File Options Help" as the top level item.
+    3. Implement "New", "Open", "Save As" and "Close" as the menu items in "File".
+        a. "New" allows you to start a new file for editing. If there is text in the work area, you
+            must give the user the chance to save the file. Use the Save File Dialog if a save is requested.
+        b. "Open" must display the Open File Dialog and allow you to choose a text file to Open
+            and load into the work area of your application.
+        c. "Save As" must display the Save File Dialog and allow you to save a text file with the
+            content from your work area.
+        d. "Close" closes the application.
+    4. Implement "About" as the menu item in "Help"
+        a. About should bring up a modal About Box with the standard information about your
+           application. It should behave like most common about boxes in windows applications.
+    5. Implement a Status Bar at the bottom of the window that displays the current count of
+       characters in the work area. As you type, or delete, you should have this number updated.    
+    6. There is no implementation requirement for "Options". However, as a challenge, you may
+       consider implementing options like Word Wrap or Font.
+    7. Follow SET coding standards.
+
+*/
+    
+    -->
+    
+    
+    <Window x:Class="a2.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:a2"
         mc:Ignorable="d"
-        Title="Brendan Rushing's TextPad" Height="450" Width="782.898">
+        Title="Brendan Rushing's TextPad" Height="450" Width="782.898" Closing="Window_Closing">
+   
 
 
     <Grid>
         <DockPanel>
 
+            <StatusBar DockPanel.Dock="Bottom">
+                <StatusBarItem>
+                    <TextBlock Name="statusBarText" />
+                </StatusBarItem>
+            </StatusBar>
+            
             <Menu DockPanel.Dock="Top" Background="White">
-
                 <MenuItem Header="_File" Click="MenuItem_Click">
-                    <MenuItem Name ="menuNew" Header="_New"/>
+                    <MenuItem x:Name ="menuNew" Header="_New"/>
                     <MenuItem x:Name ="menuOpen" Header="_Open"/>
                     <MenuItem x:Name ="menuSaveAs" Header="_Save As"/>
-                    <MenuItem Name ="menuClose" Header="_Close"/>
+                    <MenuItem x:Name ="menuClose" Header="_Close"/>
                 </MenuItem>
-
+                <MenuItem Header="_Edit" Click="MenuItem_Click">
+                    <MenuItem Name ="menuCut" Header="_Cut" Command="Cut"/>
+                    <MenuItem Name ="menuCopy" Header="_Copy" Command="Copy"/>
+                    <MenuItem Name ="menuPaste" Header="_Paste" Command="Paste"/>
+                    <MenuItem Name ="menuSelectAl" Header="_Select All" Command="SelectAll"/>
+                    <MenuItem Name ="menuUndo" Header="_Undo" Command="Undo"/>
+                    <MenuItem Name ="menuRedo" Header="_Redo" Command="Redo"/>
+                </MenuItem>
                 <MenuItem Header="_Options" Click="MenuItem_Click">
                     <MenuItem Name ="menuFont" Header="_Font"/>
                     <MenuItem Name ="menuWordWrap" Header="_Word Wrap" IsChecked="True"/>
+                    <MenuItem Name ="menuSpellCheck" Header="_Spell Check" IsChecked="True"/>
                 </MenuItem>
-                <MenuItem Header="_Help">
-                    <MenuItem Header="_About"/>
+                <MenuItem Header="_Help" Click="MenuItem_Click">
+                    <MenuItem Name ="menuAbout" Header="_About"/>
                 </MenuItem>
             </Menu>
 
@@ -33,7 +82,7 @@
 
         <TextBox BorderBrush="LightGray" BorderThickness="0,1,0,0" Name="textbox" TextWrapping="Wrap"  Text=""  TextChanged="TextBox_TextChanged" 
                  Margin="2,20,2,30" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" AcceptsReturn="True"
-                 SpellCheck.IsEnabled="True"                         />
+                 SpellCheck.IsEnabled="True" IsInactiveSelectionHighlightEnabled="False" Loaded="MainWindow_Loaded"                 />
 
 
     </Grid>
