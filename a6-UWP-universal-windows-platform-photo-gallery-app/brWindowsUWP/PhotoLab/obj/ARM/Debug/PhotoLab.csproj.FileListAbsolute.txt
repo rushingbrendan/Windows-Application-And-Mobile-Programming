@@ -1,0 +1,15 @@
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\PhotoLab.csprojAssemblyReference.cache
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\App.g.i.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\App.g.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\DetailPage.g.i.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\DetailPage.g.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\MainPage.g.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\App.xaml
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\DetailPage.xaml
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\MainPage.xaml
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\App.xbf
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\DetailPage.xbf
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\MainPage.xbf
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\obj\ARM\Debug\XamlSaveStateFile.xml

@@ -1,0 +1,1 @@
+C:\Users\brushing0895\Downloads\Windows-appsample-photo-lab-master\WindowsUWP\xaml-basics-starting-points\style\PhotoLab\PhotoLab.csproj;x86
