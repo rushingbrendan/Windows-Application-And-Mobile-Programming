@@ -1,0 +1,16 @@
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.csprojAssemblyReference.cache
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\MainWindow.g.cs
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\App.g.cs
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client_MarkupCompile.cache
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client_MarkupCompile.lref
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\MainWindow.baml
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.g.resources
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.pdb
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\bin\Debug\chat-client.exe.config
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\bin\Debug\chat-client.exe
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\bin\Debug\chat-client.pdb
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat_client.chat_client_AboutBox.resources
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat_client.Properties.Resources.resources
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.csproj.GenerateResource.cache
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.csproj.CoreCompileInputs.cache
+C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\chat-client\chat-client\obj\Debug\chat-client.exe

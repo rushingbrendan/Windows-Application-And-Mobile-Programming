@@ -1,0 +1,9 @@
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe.config
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.pdb
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.csprojAssemblyReference.cache
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.ProjectInstaller.resources
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.csproj.GenerateResource.cache
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.csproj.CoreCompileInputs.cache
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.exe
+C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\obj\Debug\WinMobA5Service.pdb

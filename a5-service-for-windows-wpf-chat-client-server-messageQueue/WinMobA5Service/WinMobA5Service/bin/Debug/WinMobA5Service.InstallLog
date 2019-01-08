@@ -1,0 +1,458 @@
+﻿Installing assembly 'C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\joshr\source\repos\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Creating EventLog source ServerService in log Application...
+Rolling back assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Restoring event log to previous state for source ServerService.
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Uninstalling assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Removing EventLog source ServerService.
+Service ServerService is being removed from the system...
+Service ServerService was successfully removed from the system.
+Attempt to stop service ServerService.
+Installing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
+Installing service ServerService...
+Service ServerService has been successfully installed.
+Creating EventLog source ServerService in log Application...
+Committing assembly 'C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.InstallLog
+   assemblypath = C:\Users\Rushing\Documents\Windows Programming\a5\winmob-chat-service\WinMobA5Service\WinMobA5Service\bin\Debug\WinMobA5Service.exe
